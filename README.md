@@ -6,9 +6,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
 
 <p align="left">📚 I'm currently learning Full Stack Developement Course at Prepleaf by masai
 
